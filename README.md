@@ -46,4 +46,4 @@ The analysis was performed using Python and Pandas, while Tableau was used to cr
 ---
 
 ## Tableau Dashboard
-(https://public.tableau.com/app/profile/ma.gorzata.soroka/viz/AirbnbProjektMSoroka/Dashboard2?publish=yes)
+https://public.tableau.com/app/profile/ma.gorzata.soroka/viz/AirbnbProjektMSoroka/Dashboard2?publish=yes
