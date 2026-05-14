@@ -34,7 +34,7 @@ The analysis was performed using Python and Pandas, while Tableau was used to cr
 ---
 
 ## Dashboard Preview
-(Add dashboard screenshot here)
+![Tableau Dashboard](DashboardTableauScreen.png)
 
 ---
 
